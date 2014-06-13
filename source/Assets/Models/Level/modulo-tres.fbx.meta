@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: c33c7d6da02d27c4084b4c9e450d84cf
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: group
+    100002: group46
+    100004: group47
+    100006: group49
+    100008: group50
+    100010: group51
+    100012: group53
+    100014: group54
+    100016: group55
+    100018: group56
+    100020: group57
+    100022: group79
+    100024: group80
+    100026: group81
+    100028: group82
+    100030: group83
+    100032: group84
+    100034: group85
+    100036: //RootNode
+    100038: pasted__group30
+    100040: pasted__group35
+    100042: pasted__group46
+    100044: pasted__group47
+    100046: pasted__group47 1
+    100048: pasted__group50
+    100050: pasted__group52
+    100052: pasted__group54
+    100054: pasted__group54 1
+    100056: pasted__group80
+    100058: pasted__group81
+    100060: pasted__pasted__group31
+    100062: pasted__pasted__group47
+    100064: pasted__pasted__group47 1
+    100066: pasted__pasted__group52
+    100068: pasted__pasted__group52 1
+    100070: pasted__pasted__pasted__group30
+    100072: pasted__pasted__pasted__group47
+    100074: pasted__pasted__pasted__group47 1
+    100076: pasted__pasted__pasted__pasted__pPlane2
+    100078: pasted__pasted__pCube4
+    100080: pasted__pasted__pCube6
+    100082: pasted__pasted__pCube7
+    100084: pasted__pasted__pCube7 1
+    100086: pasted__pasted__pPlane2
+    100088: pasted__pCube4
+    100090: pasted__pCube7
+    100092: pasted__pCube7 1
+    100094: pasted__pCube7 2
+    100096: pasted__pCylinder1
+    100098: pasted__pPlane1
+    100100: pCube6
+    100102: pCube7
+    100104: pCube8
+    100106: pCylinder1
+    100108: pPlane1
+    400000: group
+    400002: group46
+    400004: group47
+    400006: group49
+    400008: group50
+    400010: group51
+    400012: group53
+    400014: group54
+    400016: group55
+    400018: group56
+    400020: group57
+    400022: group79
+    400024: group80
+    400026: group81
+    400028: group82
+    400030: group83
+    400032: group84
+    400034: group85
+    400036: //RootNode
+    400038: pasted__group30
+    400040: pasted__group35
+    400042: pasted__group46
+    400044: pasted__group47
+    400046: pasted__group47 1
+    400048: pasted__group50
+    400050: pasted__group52
+    400052: pasted__group54
+    400054: pasted__group54 1
+    400056: pasted__group80
+    400058: pasted__group81
+    400060: pasted__pasted__group31
+    400062: pasted__pasted__group47
+    400064: pasted__pasted__group47 1
+    400066: pasted__pasted__group52
+    400068: pasted__pasted__group52 1
+    400070: pasted__pasted__pasted__group30
+    400072: pasted__pasted__pasted__group47
+    400074: pasted__pasted__pasted__group47 1
+    400076: pasted__pasted__pasted__pasted__pPlane2
+    400078: pasted__pasted__pCube4
+    400080: pasted__pasted__pCube6
+    400082: pasted__pasted__pCube7
+    400084: pasted__pasted__pCube7 1
+    400086: pasted__pasted__pPlane2
+    400088: pasted__pCube4
+    400090: pasted__pCube7
+    400092: pasted__pCube7 1
+    400094: pasted__pCube7 2
+    400096: pasted__pCylinder1
+    400098: pasted__pPlane1
+    400100: pCube6
+    400102: pCube7
+    400104: pCube8
+    400106: pCylinder1
+    400108: pPlane1
+    2300000: pasted__pasted__pasted__pasted__pPlane2
+    2300002: pasted__pasted__pCube4
+    2300004: pasted__pasted__pCube6
+    2300006: pasted__pasted__pCube7
+    2300008: pasted__pasted__pCube7 1
+    2300010: pasted__pasted__pPlane2
+    2300012: pasted__pCube4
+    2300014: pasted__pCube7
+    2300016: pasted__pCube7 1
+    2300018: pasted__pCube7 2
+    2300020: pasted__pCylinder1
+    2300022: pasted__pPlane1
+    2300024: pCube6
+    2300026: pCube7
+    2300028: pCube8
+    2300030: pCylinder1
+    2300032: pPlane1
+    3300000: pasted__pasted__pasted__pasted__pPlane2
+    3300002: pasted__pasted__pCube4
+    3300004: pasted__pasted__pCube6
+    3300006: pasted__pasted__pCube7
+    3300008: pasted__pasted__pCube7 1
+    3300010: pasted__pasted__pPlane2
+    3300012: pasted__pCube4
+    3300014: pasted__pCube7
+    3300016: pasted__pCube7 1
+    3300018: pasted__pCube7 2
+    3300020: pasted__pCylinder1
+    3300022: pasted__pPlane1
+    3300024: pCube6
+    3300026: pCube7
+    3300028: pCube8
+    3300030: pCylinder1
+    3300032: pPlane1
+    4300000: pasted__pCube4
+    4300002: pCube6
+    4300004: pCylinder1
+    4300006: pasted__pasted__pCube6
+    4300008: pasted__pasted__pPlane2
+    4300010: pasted__pasted__pasted__pasted__pPlane2
+    4300012: pasted__pasted__pCube4
+    4300014: pCube7
+    4300016: pasted__pCube7
+    4300018: pasted__pCube7
+    4300020: pasted__pCube7
+    4300022: pasted__pasted__pCube7
+    4300024: pasted__pasted__pCube7
+    4300026: pPlane1
+    4300028: pasted__pPlane1
+    4300030: pCube8
+    4300032: pasted__pCylinder1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
